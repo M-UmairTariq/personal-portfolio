@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out to me:
 
-- **Email**: [your-email@example.com](mailto:mohammadumair.dev@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/m-umairtariq)
-- **GitHub**: [Your GitHub Profile](https://github.com/M-UmairTariq)
+- **Email**: [mohammadumair.dev@example.com](mailto:mohammadumair.dev@gmail.com)
+- **LinkedIn**: [Mohammad Umair](https://www.linkedin.com/in/m-umairtariq)
+- **GitHub**: [Mohammad Umair](https://github.com/M-UmairTariq)
 
